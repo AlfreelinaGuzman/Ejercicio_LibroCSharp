@@ -1,0 +1,13 @@
+C:\Users\Lina\Desktop\Ejercicios_CSharp\Tarea1\Ejercicio5_cap1\bin\Debug\netcoreapp3.1\Ejercicio5_cap1.exe
+C:\Users\Lina\Desktop\Ejercicios_CSharp\Tarea1\Ejercicio5_cap1\bin\Debug\netcoreapp3.1\Ejercicio5_cap1.deps.json
+C:\Users\Lina\Desktop\Ejercicios_CSharp\Tarea1\Ejercicio5_cap1\bin\Debug\netcoreapp3.1\Ejercicio5_cap1.runtimeconfig.json
+C:\Users\Lina\Desktop\Ejercicios_CSharp\Tarea1\Ejercicio5_cap1\bin\Debug\netcoreapp3.1\Ejercicio5_cap1.runtimeconfig.dev.json
+C:\Users\Lina\Desktop\Ejercicios_CSharp\Tarea1\Ejercicio5_cap1\bin\Debug\netcoreapp3.1\Ejercicio5_cap1.dll
+C:\Users\Lina\Desktop\Ejercicios_CSharp\Tarea1\Ejercicio5_cap1\bin\Debug\netcoreapp3.1\Ejercicio5_cap1.pdb
+C:\Users\Lina\Desktop\Ejercicios_CSharp\Tarea1\Ejercicio5_cap1\obj\Debug\netcoreapp3.1\Ejercicio5_cap1.csprojAssemblyReference.cache
+C:\Users\Lina\Desktop\Ejercicios_CSharp\Tarea1\Ejercicio5_cap1\obj\Debug\netcoreapp3.1\Ejercicio5_cap1.AssemblyInfoInputs.cache
+C:\Users\Lina\Desktop\Ejercicios_CSharp\Tarea1\Ejercicio5_cap1\obj\Debug\netcoreapp3.1\Ejercicio5_cap1.AssemblyInfo.cs
+C:\Users\Lina\Desktop\Ejercicios_CSharp\Tarea1\Ejercicio5_cap1\obj\Debug\netcoreapp3.1\Ejercicio5_cap1.csproj.CoreCompileInputs.cache
+C:\Users\Lina\Desktop\Ejercicios_CSharp\Tarea1\Ejercicio5_cap1\obj\Debug\netcoreapp3.1\Ejercicio5_cap1.dll
+C:\Users\Lina\Desktop\Ejercicios_CSharp\Tarea1\Ejercicio5_cap1\obj\Debug\netcoreapp3.1\Ejercicio5_cap1.pdb
+C:\Users\Lina\Desktop\Ejercicios_CSharp\Tarea1\Ejercicio5_cap1\obj\Debug\netcoreapp3.1\Ejercicio5_cap1.genruntimeconfig.cache

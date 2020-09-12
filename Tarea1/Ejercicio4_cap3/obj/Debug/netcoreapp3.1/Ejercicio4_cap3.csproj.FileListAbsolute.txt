@@ -1,0 +1,13 @@
+C:\Users\Lina\Desktop\Ejercicios_CSharp\Tarea1\Ejercicio4_cap3\obj\Debug\netcoreapp3.1\Ejercicio4_cap3.csprojAssemblyReference.cache
+C:\Users\Lina\Desktop\Ejercicios_CSharp\Tarea1\Ejercicio4_cap3\obj\Debug\netcoreapp3.1\Ejercicio4_cap3.AssemblyInfoInputs.cache
+C:\Users\Lina\Desktop\Ejercicios_CSharp\Tarea1\Ejercicio4_cap3\obj\Debug\netcoreapp3.1\Ejercicio4_cap3.AssemblyInfo.cs
+C:\Users\Lina\Desktop\Ejercicios_CSharp\Tarea1\Ejercicio4_cap3\obj\Debug\netcoreapp3.1\Ejercicio4_cap3.csproj.CoreCompileInputs.cache
+C:\Users\Lina\Desktop\Ejercicios_CSharp\Tarea1\Ejercicio4_cap3\bin\Debug\netcoreapp3.1\Ejercicio4_cap3.exe
+C:\Users\Lina\Desktop\Ejercicios_CSharp\Tarea1\Ejercicio4_cap3\bin\Debug\netcoreapp3.1\Ejercicio4_cap3.deps.json
+C:\Users\Lina\Desktop\Ejercicios_CSharp\Tarea1\Ejercicio4_cap3\bin\Debug\netcoreapp3.1\Ejercicio4_cap3.runtimeconfig.json
+C:\Users\Lina\Desktop\Ejercicios_CSharp\Tarea1\Ejercicio4_cap3\bin\Debug\netcoreapp3.1\Ejercicio4_cap3.runtimeconfig.dev.json
+C:\Users\Lina\Desktop\Ejercicios_CSharp\Tarea1\Ejercicio4_cap3\bin\Debug\netcoreapp3.1\Ejercicio4_cap3.dll
+C:\Users\Lina\Desktop\Ejercicios_CSharp\Tarea1\Ejercicio4_cap3\bin\Debug\netcoreapp3.1\Ejercicio4_cap3.pdb
+C:\Users\Lina\Desktop\Ejercicios_CSharp\Tarea1\Ejercicio4_cap3\obj\Debug\netcoreapp3.1\Ejercicio4_cap3.dll
+C:\Users\Lina\Desktop\Ejercicios_CSharp\Tarea1\Ejercicio4_cap3\obj\Debug\netcoreapp3.1\Ejercicio4_cap3.pdb
+C:\Users\Lina\Desktop\Ejercicios_CSharp\Tarea1\Ejercicio4_cap3\obj\Debug\netcoreapp3.1\Ejercicio4_cap3.genruntimeconfig.cache
