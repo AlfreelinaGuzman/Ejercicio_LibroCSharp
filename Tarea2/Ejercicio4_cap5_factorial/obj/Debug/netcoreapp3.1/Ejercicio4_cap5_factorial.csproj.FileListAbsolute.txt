@@ -1,0 +1,13 @@
+C:\Users\Lina\Desktop\Aplicada1\Ejercicios_CSharp\Tarea2\Ejercicio4_cap5_factorial\obj\Debug\netcoreapp3.1\Ejercicio4_cap5_factorial.csprojAssemblyReference.cache
+C:\Users\Lina\Desktop\Aplicada1\Ejercicios_CSharp\Tarea2\Ejercicio4_cap5_factorial\obj\Debug\netcoreapp3.1\Ejercicio4_cap5_factorial.AssemblyInfoInputs.cache
+C:\Users\Lina\Desktop\Aplicada1\Ejercicios_CSharp\Tarea2\Ejercicio4_cap5_factorial\obj\Debug\netcoreapp3.1\Ejercicio4_cap5_factorial.AssemblyInfo.cs
+C:\Users\Lina\Desktop\Aplicada1\Ejercicios_CSharp\Tarea2\Ejercicio4_cap5_factorial\obj\Debug\netcoreapp3.1\Ejercicio4_cap5_factorial.csproj.CoreCompileInputs.cache
+C:\Users\Lina\Desktop\Aplicada1\Ejercicios_CSharp\Tarea2\Ejercicio4_cap5_factorial\bin\Debug\netcoreapp3.1\Ejercicio4_cap5_factorial.exe
+C:\Users\Lina\Desktop\Aplicada1\Ejercicios_CSharp\Tarea2\Ejercicio4_cap5_factorial\bin\Debug\netcoreapp3.1\Ejercicio4_cap5_factorial.deps.json
+C:\Users\Lina\Desktop\Aplicada1\Ejercicios_CSharp\Tarea2\Ejercicio4_cap5_factorial\bin\Debug\netcoreapp3.1\Ejercicio4_cap5_factorial.runtimeconfig.json
+C:\Users\Lina\Desktop\Aplicada1\Ejercicios_CSharp\Tarea2\Ejercicio4_cap5_factorial\bin\Debug\netcoreapp3.1\Ejercicio4_cap5_factorial.runtimeconfig.dev.json
+C:\Users\Lina\Desktop\Aplicada1\Ejercicios_CSharp\Tarea2\Ejercicio4_cap5_factorial\bin\Debug\netcoreapp3.1\Ejercicio4_cap5_factorial.dll
+C:\Users\Lina\Desktop\Aplicada1\Ejercicios_CSharp\Tarea2\Ejercicio4_cap5_factorial\bin\Debug\netcoreapp3.1\Ejercicio4_cap5_factorial.pdb
+C:\Users\Lina\Desktop\Aplicada1\Ejercicios_CSharp\Tarea2\Ejercicio4_cap5_factorial\obj\Debug\netcoreapp3.1\Ejercicio4_cap5_factorial.dll
+C:\Users\Lina\Desktop\Aplicada1\Ejercicios_CSharp\Tarea2\Ejercicio4_cap5_factorial\obj\Debug\netcoreapp3.1\Ejercicio4_cap5_factorial.pdb
+C:\Users\Lina\Desktop\Aplicada1\Ejercicios_CSharp\Tarea2\Ejercicio4_cap5_factorial\obj\Debug\netcoreapp3.1\Ejercicio4_cap5_factorial.genruntimeconfig.cache

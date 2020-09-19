@@ -1,0 +1,13 @@
+C:\Users\Lina\Desktop\Aplicada1\Ejercicios_CSharp\Tarea2\Ejercicio2_cap4_Potencia_Numero\bin\Debug\netcoreapp3.1\Ejercicio2_cap4_Potencia_Numero.exe
+C:\Users\Lina\Desktop\Aplicada1\Ejercicios_CSharp\Tarea2\Ejercicio2_cap4_Potencia_Numero\bin\Debug\netcoreapp3.1\Ejercicio2_cap4_Potencia_Numero.deps.json
+C:\Users\Lina\Desktop\Aplicada1\Ejercicios_CSharp\Tarea2\Ejercicio2_cap4_Potencia_Numero\bin\Debug\netcoreapp3.1\Ejercicio2_cap4_Potencia_Numero.runtimeconfig.json
+C:\Users\Lina\Desktop\Aplicada1\Ejercicios_CSharp\Tarea2\Ejercicio2_cap4_Potencia_Numero\bin\Debug\netcoreapp3.1\Ejercicio2_cap4_Potencia_Numero.runtimeconfig.dev.json
+C:\Users\Lina\Desktop\Aplicada1\Ejercicios_CSharp\Tarea2\Ejercicio2_cap4_Potencia_Numero\bin\Debug\netcoreapp3.1\Ejercicio2_cap4_Potencia_Numero.dll
+C:\Users\Lina\Desktop\Aplicada1\Ejercicios_CSharp\Tarea2\Ejercicio2_cap4_Potencia_Numero\bin\Debug\netcoreapp3.1\Ejercicio2_cap4_Potencia_Numero.pdb
+C:\Users\Lina\Desktop\Aplicada1\Ejercicios_CSharp\Tarea2\Ejercicio2_cap4_Potencia_Numero\obj\Debug\netcoreapp3.1\Ejercicio2_cap4_Potencia_Numero.csprojAssemblyReference.cache
+C:\Users\Lina\Desktop\Aplicada1\Ejercicios_CSharp\Tarea2\Ejercicio2_cap4_Potencia_Numero\obj\Debug\netcoreapp3.1\Ejercicio2_cap4_Potencia_Numero.AssemblyInfoInputs.cache
+C:\Users\Lina\Desktop\Aplicada1\Ejercicios_CSharp\Tarea2\Ejercicio2_cap4_Potencia_Numero\obj\Debug\netcoreapp3.1\Ejercicio2_cap4_Potencia_Numero.AssemblyInfo.cs
+C:\Users\Lina\Desktop\Aplicada1\Ejercicios_CSharp\Tarea2\Ejercicio2_cap4_Potencia_Numero\obj\Debug\netcoreapp3.1\Ejercicio2_cap4_Potencia_Numero.csproj.CoreCompileInputs.cache
+C:\Users\Lina\Desktop\Aplicada1\Ejercicios_CSharp\Tarea2\Ejercicio2_cap4_Potencia_Numero\obj\Debug\netcoreapp3.1\Ejercicio2_cap4_Potencia_Numero.dll
+C:\Users\Lina\Desktop\Aplicada1\Ejercicios_CSharp\Tarea2\Ejercicio2_cap4_Potencia_Numero\obj\Debug\netcoreapp3.1\Ejercicio2_cap4_Potencia_Numero.pdb
+C:\Users\Lina\Desktop\Aplicada1\Ejercicios_CSharp\Tarea2\Ejercicio2_cap4_Potencia_Numero\obj\Debug\netcoreapp3.1\Ejercicio2_cap4_Potencia_Numero.genruntimeconfig.cache

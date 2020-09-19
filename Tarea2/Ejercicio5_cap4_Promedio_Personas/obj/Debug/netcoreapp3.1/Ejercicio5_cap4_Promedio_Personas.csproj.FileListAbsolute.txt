@@ -1,0 +1,13 @@
+C:\Users\Lina\Desktop\Aplicada1\Ejercicios_CSharp\Tarea2\Ejercicio5_cap4_Promedio_Personas\bin\Debug\netcoreapp3.1\Ejercicio5_cap4_Promedio_Personas.exe
+C:\Users\Lina\Desktop\Aplicada1\Ejercicios_CSharp\Tarea2\Ejercicio5_cap4_Promedio_Personas\bin\Debug\netcoreapp3.1\Ejercicio5_cap4_Promedio_Personas.deps.json
+C:\Users\Lina\Desktop\Aplicada1\Ejercicios_CSharp\Tarea2\Ejercicio5_cap4_Promedio_Personas\bin\Debug\netcoreapp3.1\Ejercicio5_cap4_Promedio_Personas.runtimeconfig.json
+C:\Users\Lina\Desktop\Aplicada1\Ejercicios_CSharp\Tarea2\Ejercicio5_cap4_Promedio_Personas\bin\Debug\netcoreapp3.1\Ejercicio5_cap4_Promedio_Personas.runtimeconfig.dev.json
+C:\Users\Lina\Desktop\Aplicada1\Ejercicios_CSharp\Tarea2\Ejercicio5_cap4_Promedio_Personas\bin\Debug\netcoreapp3.1\Ejercicio5_cap4_Promedio_Personas.dll
+C:\Users\Lina\Desktop\Aplicada1\Ejercicios_CSharp\Tarea2\Ejercicio5_cap4_Promedio_Personas\bin\Debug\netcoreapp3.1\Ejercicio5_cap4_Promedio_Personas.pdb
+C:\Users\Lina\Desktop\Aplicada1\Ejercicios_CSharp\Tarea2\Ejercicio5_cap4_Promedio_Personas\obj\Debug\netcoreapp3.1\Ejercicio5_cap4_Promedio_Personas.csprojAssemblyReference.cache
+C:\Users\Lina\Desktop\Aplicada1\Ejercicios_CSharp\Tarea2\Ejercicio5_cap4_Promedio_Personas\obj\Debug\netcoreapp3.1\Ejercicio5_cap4_Promedio_Personas.AssemblyInfoInputs.cache
+C:\Users\Lina\Desktop\Aplicada1\Ejercicios_CSharp\Tarea2\Ejercicio5_cap4_Promedio_Personas\obj\Debug\netcoreapp3.1\Ejercicio5_cap4_Promedio_Personas.AssemblyInfo.cs
+C:\Users\Lina\Desktop\Aplicada1\Ejercicios_CSharp\Tarea2\Ejercicio5_cap4_Promedio_Personas\obj\Debug\netcoreapp3.1\Ejercicio5_cap4_Promedio_Personas.csproj.CoreCompileInputs.cache
+C:\Users\Lina\Desktop\Aplicada1\Ejercicios_CSharp\Tarea2\Ejercicio5_cap4_Promedio_Personas\obj\Debug\netcoreapp3.1\Ejercicio5_cap4_Promedio_Personas.dll
+C:\Users\Lina\Desktop\Aplicada1\Ejercicios_CSharp\Tarea2\Ejercicio5_cap4_Promedio_Personas\obj\Debug\netcoreapp3.1\Ejercicio5_cap4_Promedio_Personas.pdb
+C:\Users\Lina\Desktop\Aplicada1\Ejercicios_CSharp\Tarea2\Ejercicio5_cap4_Promedio_Personas\obj\Debug\netcoreapp3.1\Ejercicio5_cap4_Promedio_Personas.genruntimeconfig.cache

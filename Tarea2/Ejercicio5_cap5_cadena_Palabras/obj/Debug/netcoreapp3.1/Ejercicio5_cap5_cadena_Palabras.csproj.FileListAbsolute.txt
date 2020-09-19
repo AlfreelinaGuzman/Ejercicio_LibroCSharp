@@ -1,0 +1,13 @@
+C:\Users\Lina\Desktop\Aplicada1\Ejercicios_CSharp\Tarea2\Ejercicio5_cap5_cadena_Palabras\bin\Debug\netcoreapp3.1\Ejercicio5_cap5_cadena_Palabras.exe
+C:\Users\Lina\Desktop\Aplicada1\Ejercicios_CSharp\Tarea2\Ejercicio5_cap5_cadena_Palabras\bin\Debug\netcoreapp3.1\Ejercicio5_cap5_cadena_Palabras.deps.json
+C:\Users\Lina\Desktop\Aplicada1\Ejercicios_CSharp\Tarea2\Ejercicio5_cap5_cadena_Palabras\bin\Debug\netcoreapp3.1\Ejercicio5_cap5_cadena_Palabras.runtimeconfig.json
+C:\Users\Lina\Desktop\Aplicada1\Ejercicios_CSharp\Tarea2\Ejercicio5_cap5_cadena_Palabras\bin\Debug\netcoreapp3.1\Ejercicio5_cap5_cadena_Palabras.runtimeconfig.dev.json
+C:\Users\Lina\Desktop\Aplicada1\Ejercicios_CSharp\Tarea2\Ejercicio5_cap5_cadena_Palabras\bin\Debug\netcoreapp3.1\Ejercicio5_cap5_cadena_Palabras.dll
+C:\Users\Lina\Desktop\Aplicada1\Ejercicios_CSharp\Tarea2\Ejercicio5_cap5_cadena_Palabras\bin\Debug\netcoreapp3.1\Ejercicio5_cap5_cadena_Palabras.pdb
+C:\Users\Lina\Desktop\Aplicada1\Ejercicios_CSharp\Tarea2\Ejercicio5_cap5_cadena_Palabras\obj\Debug\netcoreapp3.1\Ejercicio5_cap5_cadena_Palabras.csprojAssemblyReference.cache
+C:\Users\Lina\Desktop\Aplicada1\Ejercicios_CSharp\Tarea2\Ejercicio5_cap5_cadena_Palabras\obj\Debug\netcoreapp3.1\Ejercicio5_cap5_cadena_Palabras.AssemblyInfoInputs.cache
+C:\Users\Lina\Desktop\Aplicada1\Ejercicios_CSharp\Tarea2\Ejercicio5_cap5_cadena_Palabras\obj\Debug\netcoreapp3.1\Ejercicio5_cap5_cadena_Palabras.AssemblyInfo.cs
+C:\Users\Lina\Desktop\Aplicada1\Ejercicios_CSharp\Tarea2\Ejercicio5_cap5_cadena_Palabras\obj\Debug\netcoreapp3.1\Ejercicio5_cap5_cadena_Palabras.csproj.CoreCompileInputs.cache
+C:\Users\Lina\Desktop\Aplicada1\Ejercicios_CSharp\Tarea2\Ejercicio5_cap5_cadena_Palabras\obj\Debug\netcoreapp3.1\Ejercicio5_cap5_cadena_Palabras.dll
+C:\Users\Lina\Desktop\Aplicada1\Ejercicios_CSharp\Tarea2\Ejercicio5_cap5_cadena_Palabras\obj\Debug\netcoreapp3.1\Ejercicio5_cap5_cadena_Palabras.pdb
+C:\Users\Lina\Desktop\Aplicada1\Ejercicios_CSharp\Tarea2\Ejercicio5_cap5_cadena_Palabras\obj\Debug\netcoreapp3.1\Ejercicio5_cap5_cadena_Palabras.genruntimeconfig.cache
